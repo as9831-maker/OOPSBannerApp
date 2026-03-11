@@ -1,1 +1,2 @@
-*.class.DS_Store
+.DS_Store
+*.class*.class.DS_Store
